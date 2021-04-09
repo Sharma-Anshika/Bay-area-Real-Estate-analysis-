@@ -1,1 +1,1 @@
-# Bay-area-Real-Estate-analysis-
+In this project, the realestate dataset was scrapped from Redfin.com through Beautiful Soup and Regex library. Data visualization was followed by data cleaning and filtering in jupyter notebook using numpy, pandas , matplotlib and seaborn libraries.
